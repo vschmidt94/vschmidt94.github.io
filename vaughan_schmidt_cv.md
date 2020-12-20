@@ -1,11 +1,14 @@
-C. Vaughan Schmidt, PMP
-=======================
 
---------------------------              -------------------------------------
-Sacramento, CA                                      vaughan.schmidt@gmail.com
-916.633.4511                            github: https://github.com/vschmidt94
-                                        linkedin: 
---------------------------              -------------------------------------
+C. Vaughan Schmidt, PMP
+-----------------------
+
+--------------------------
+Sacramento, CA
+email: [vaughan.schmidt@gmail.com](mailto:vaughan.schmidt@gmail.com)
+phone: 916.633.4511
+github: [https://github.com/vschmidt94](https://github.com/vschmidt94)
+linkedin: 
+--------------------------
 
 Experience
 ----------
@@ -37,22 +40,33 @@ Experience
     
     Served on the Salem Internal Audit team to help ensure site-wide compliance with SAE AS9100 standards. Served as
     interim site lead during successful compliance audit conducted 2019.
+    
+1998 - 2015
+:   Project Manager
+    The Schmidt Group, Inc., Greenville SC
+    
+1994 - 1998
+:   Mechanical Systems Engineer
+    Fluor Daniel, Inc., Greenville SC
 
 Education
 ---------
 
-2016.December 
+2016
 :   Master of Science: Business Administration
     Computer Information Systems Concentration
     Colorado State University, Fort Collins, CO
 
-2015.June
+
+2015
 :   Bachelor of Science: Computer Science
     Oregon State University, Corvallis, OR
 
-1994.December
+
+1994
 :   Bachelor of Science: Mechanical Engineering
     Clemson Univeristy, Clemson, SC
+
 
 Certifications
 --------------
