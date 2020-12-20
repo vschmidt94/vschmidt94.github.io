@@ -4,11 +4,11 @@ C. Vaughan Schmidt, PMP
 
 --------------------------
 
-Sacramento, CA
+Sacramento, CA  
 email: [vaughan.schmidt@gmail.com](mailto:vaughan.schmidt@gmail.com)  
 phone: 916.633.4511  
 github: [https://github.com/vschmidt94](https://github.com/vschmidt94)  
-linkedin:  
+linkedin: [https://linkedin.com/vaughanschmidt](https://linkedin.com/vaughanschmidt)  
 
 --------------------------
 
