@@ -59,14 +59,14 @@ Education
     Computer Information Systems Concentration
     Colorado State University, Fort Collins, CO
 
-
+  
 2015
-:   Bachelor of Science: Computer Science
+:   Bachelor of Science: Computer Science  
     Oregon State University, Corvallis, OR
-
+  
 
 1994
-:   Bachelor of Science: Mechanical Engineering
+:   Bachelor of Science: Mechanical Engineering  
     Clemson Univeristy, Clemson, SC
 
 
